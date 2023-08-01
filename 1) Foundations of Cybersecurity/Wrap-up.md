@@ -24,4 +24,5 @@ What we covered;
 	- Programming languages (python and SQL)
 
 
-🙂I had fun
+😁I had fun
+![image](https://github.com/ekouohonore/Google-Cybersecurity-Professional-Certificate/assets/94833160/57f07ed3-a55e-45ca-abda-1e625f07ac35)
