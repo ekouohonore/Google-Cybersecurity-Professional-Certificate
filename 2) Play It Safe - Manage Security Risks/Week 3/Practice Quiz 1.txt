@@ -1,0 +1,19 @@
+Question 1
+Which log source records events related to websites, emails, and file shares, as well as password and username requests?
+
+Answer: Server
+
+Question 2
+Fill in the blank: A security information and _____ management (SIEM) tool is an application that collects and analyzes log data to monitor critical activities in an organization.
+
+Answer: event
+
+Question 3
+A security professional evaluates a software application by reviewing key technical attributes including response time, availability, and failure rate. What are they using to assess performance?
+
+Answer: Metrics
+
+Question 4
+Fill in the blank: SIEM tools must be configured and _____ to meet each organization's unique security needs.
+
+Answer: customized

@@ -1,0 +1,43 @@
+Question 1
+Which of the following statements correctly describe logs? Select three answers.
+
+Answer: Actions such as login requests are recorded in a server log.
+Outbound requests to the internet from within a network are recorded in a firewall log.
+Security teams monitor logs to identify vulnerabilities and potential data breaches.
+
+Question 2
+What are some of the key benefits of SIEM tools? Select three answers.
+
+Answer: Store all log data in a centralized location.
+Provide visibility.
+Monitor critical activities in an organization.
+
+Question 3
+Fill in the blank: A security professional creates a dashboard that displays technical attributes about business operations called ______, such as incoming and outgoing network traffic.
+
+Answer: metrics
+
+Question 4
+A security team chooses to implement a SIEM tool that they will install, operate, and maintain using their own physical infrastructure. What type of tool are they using?
+
+Answer: Self-hosted
+
+Question 5
+You are a security analyst, and you want a security solution that will be fully maintained and managed by your SIEM tool provider. What type of tool do you choose?
+
+Answer: Cloud-hosted
+
+Question 6
+Fill in the blank: SIEM tools are used to search, analyze, and _____ an organization's log data to provide security information and alerts in real-time.
+
+Answer: retain
+
+Question 7
+After receiving an alert about a suspicious login attempt, a security analyst can access their _____ to gather information about the alert.
+
+Answer: SIEM tool dashboard
+
+Question 8
+Fill in the blank: The wide exposure and immediate access to the source code of open-source tools makes it _____ likely that issues will occur.
+
+Answer: less
