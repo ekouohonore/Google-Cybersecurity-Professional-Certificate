@@ -1,0 +1,19 @@
+Question 1
+Passive packet sniffing involves data packets being manipulated while in transit, which may include injecting internet protocols to redirect the packets to unintended ports or changing the information the packet contains.
+
+Answer: False
+
+Question 2
+Fill in the blank: A security analyst can protect against malicious packet sniffing by _____ to encrypt data as it travels across a network.
+
+Answer: using a VPN
+
+Question 3
+Which type of attack involves an attacker changing the source IP of a data packet to impersonate an authorized system and gain access to the network?
+
+Answer: IP spoofing
+
+Question 4
+Which of the following statements accurately describes a smurf attack?
+
+Answer: A DoS attack performed by an attacker repeatedly sending ICMP packets to a network server

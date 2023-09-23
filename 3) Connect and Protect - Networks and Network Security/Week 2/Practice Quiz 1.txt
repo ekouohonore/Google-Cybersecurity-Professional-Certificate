@@ -1,0 +1,19 @@
+1. Question 1
+Fill in the blank: Network protocols are rules used by two or more devices on a network to describe the _____ and structure of data.
+
+Answer: order of delivery
+
+2. Question 2
+Which network protocol provides a secure method of communication between clients and web servers?
+
+Answer: HTTPS
+
+3. Question 3
+To keep information safe from malicious actors, what security protocol can be used?
+
+Answer: Secure sockets layer and transport layer security (SSL/TLS)
+
+4. Question 4
+IEEE 802.11, also known as Wi-Fi, is a set of standards that define communication for wireless LANs.
+
+Answer: True
