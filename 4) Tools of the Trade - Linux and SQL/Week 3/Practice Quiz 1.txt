@@ -1,0 +1,24 @@
+1. Question 1
+What is a command?
+
+Answer: An instruction that tells a computer to do something
+
+2. Question 2
+Which of the following commands prints the working directory to the screen?
+
+Answer: pwd
+
+3. Question 3
+What does the cd command do?
+
+Answer: Navigates between directories
+
+4. Question 4
+A security professional enters head access.txt into a shell. What are they telling the operating system to do?
+
+Answer: Display the first 10 lines of access.txt
+
+5. Question 5
+What is the difference between an absolute file path and a relative file path?
+
+Answer: An absolute file path starts from the root, and a relative file path starts from the current directory

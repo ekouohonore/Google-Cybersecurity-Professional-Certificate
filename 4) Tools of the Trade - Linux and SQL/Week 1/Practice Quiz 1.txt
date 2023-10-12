@@ -1,0 +1,19 @@
+Question 1
+What is an operating system?
+
+Answer: The interface between computer hardware and the user
+
+Question 2
+Which of the following are operating systems? Select all that apply.
+
+Answer: Linux, Windows, Android
+
+Question 3
+Which of the following statements correctly describe operating systems? Select all that apply.
+
+Answer: Computers run efficiently because of operating systems, Operating systems are able to run many applications at once, Operating systems help people interact with computers
+
+Question 4
+Computers communicate in a language called binary, which consists of 0s and 1s.
+
+Answer: True

@@ -1,0 +1,24 @@
+1. Question 1
+What is authorization?
+
+Answer: The concept of granting access to specific resources in a system
+
+2. Question 2
+Which of the following statements correctly describe the file permissions string -rw-rw-rw-? Select two answers.
+
+Answer: The user has write permissions, The group has read permissions
+
+3. Question 3
+A security professional enters chmod g+w access.txt into the command line. What does this command tell the operating system to do?
+
+Answer: Add write permissions to the group for the access.txt file
+
+4. Question 4
+Which of the following commands typically must be used with sudo? Select three answers.
+
+Answer: userdel, chown, useradd
+
+5. Question 5
+A security analyst is updating permissions on a directory named projects. The current permissions are drwxrw-r--. They want to add execute permissions for the group. What do they enter on the command line?
+
+Answer: chmod g+x projects

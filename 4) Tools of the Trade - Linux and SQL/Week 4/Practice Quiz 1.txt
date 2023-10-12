@@ -1,0 +1,19 @@
+1. Question 1
+Which statement accurately describes the organization of a relational database?
+
+Answer: Relational databases contain tables that are related to each other through primary and foreign keys.
+
+2. Question 2
+What is SQL used for? Select two answers.
+
+Answer: Creating, interacting with, and requesting information from a database; Finding data to support security-related decisions and analysis.
+
+3. Question 3
+A record of attempts to connect to an organization’s network is one example of a log.
+
+Answer: True
+
+4. Question 4
+Fill in the blank: A request for data from a database table or a combination of tables is called a _____.
+
+Answer: query
