@@ -1,0 +1,19 @@
+1. Question 1
+A security analyst in a security operations center (SOC) receives an alert. The alert ticket describes the detection of the download of a possible malware file on an employee's computer. Which step of the triage process does this scenario describe?
+
+Answer: Receive and assess
+
+2. Question 2
+What is triage?
+
+Answer: The prioritizing of incidents according to their level of importance or urgency
+
+3. Question 3
+Fill in the blank: _____ is the act of limiting and preventing additional damage caused by an incident.
+
+Answer: Containment
+
+4. Question 4
+Which examples describe actions related to the eradication of an incident? Select two answers.
+
+Answer: Complete a vulnerability scan, Apply a patch

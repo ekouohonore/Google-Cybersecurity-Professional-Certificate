@@ -1,0 +1,23 @@
+1.Question 1
+
+What is the difference between an attack vector and an attack surface?
+
+Answer: An attack vector refers to the pathways attackers use to penetrate security defenses; an attack surface refers to all the vulnerabilities of an asset that can be exploited.
+
+2.Question 2
+
+What are examples of security hardening? Select three answers.
+
+Answer: Disabling unused network ports, keeping systems patched and updated, hashing all user passwords.
+
+3.Question 3
+
+Which steps are applied when using an attacker mindset? Select three answers.
+
+Answer: Determine how a target can be accessed, identify a target, evaluate a target’s attack vectors.
+
+4.sQuestion 4
+
+How can businesses reduce the number of attack vectors they must defend? Select three answers.
+
+Answer: By controlling access and authorization to assets, by implementing security controls that protect information, by educating users so they can participate in preventing attacks.

@@ -1,0 +1,23 @@
+1. Question 1
+
+Which of the following are types of malware? Select two answers.
+
+Answer: Spyware and Viruses
+
+2. Question 2
+
+Fill in the blank: ____ are malware that automatically duplicate and spread themselves across systems.
+
+Answer: Worms
+
+3. Question 3
+
+What is it called when someone's computing resources are illegally hijacked to mine cryptocurrencies?
+
+Answer: Cryptojacking
+
+4. Question 4
+
+Which of the following are common signs of a malware infection? Select three answers.
+
+Answer: Slowdowns in performance, Increased CPU usage, and Unusual system crashes

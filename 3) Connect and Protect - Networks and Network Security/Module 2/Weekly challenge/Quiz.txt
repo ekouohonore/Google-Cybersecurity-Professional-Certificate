@@ -1,0 +1,51 @@
+1. Question 1
+Cybersecurity is the practice of ensuring _____ by protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
+
+Answer: confidentiality, integrity, and availability of information
+
+2. Question 2
+What internet communication protocol allows two devices to form a connection and stream data?
+
+Answer: Transmission Control Protocol (TCP)
+
+3. Question 3
+The _______ maintains Wi-Fi standards.
+
+Answer: IEEE 802.11
+
+4. Question 4
+A firewall administrator installs a firewall function to either block or allow certain port numbers to limit unwanted communication. What function does this scenario describe?
+
+Answer: Port filtering
+
+5. Question 5
+Which of the following types of firewalls can perform deep packet inspection and intrusion detection?
+
+Answer: Next generation firewall (NGFW)
+
+6. Question 6
+A security professional sets up a security measure to allow employees to work from home securely while having access to internal network resources. What does this scenario describe?
+
+Answer: Virtual private network (VPN)
+
+7. Question 7
+VPN services perform _____ to protect sensitive data by wrapping it in other data packets.
+
+Answer: encapsulation
+
+8. Question 8
+A controlled zone protects a company's internal network from a(n)___ security zone.
+
+Answer: uncontrolled
+
+9. Question 9
+What network zone acts as a network perimeter to the internal network by isolating servers that are exposed to the internet?
+
+Answer: Demilitarized zone
+
+10. Question 10
+How do forward proxy servers secure internal networks? Select two answers.
+
+Answer: 
+- They receive outgoing traffic from an employee, approve it, then forward it to its destination on the internet.
+- They hide a user’s IP address and approve all outgoing requests.

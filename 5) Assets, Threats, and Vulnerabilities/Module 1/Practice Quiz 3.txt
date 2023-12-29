@@ -1,0 +1,19 @@
+1. Question 1
+What types of risks do security plans address? Select three answers.
+
+Answer: Damage to assets, Disclosure of data, Loss of information
+
+2. Question 2
+What are the basic elements of a security plan? Select three answers.
+
+Answer: Standards, Procedures, Policies
+
+3. Question 3
+Fill in the blank: The NIST CSF is a _____ framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
+
+Answer: voluntary
+
+4. Question 4
+What are some benefits of the NIST Cybersecurity Framework (CSF)? Select three answers.
+
+Answer: It can be used to identify and assess risk, It’s adaptable to fit the needs of any business, It helps organizations achieve regulatory standards

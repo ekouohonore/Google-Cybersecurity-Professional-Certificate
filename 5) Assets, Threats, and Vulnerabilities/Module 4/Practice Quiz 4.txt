@@ -1,0 +1,24 @@
+1. Question 1
+Fill in the blank: Threat modeling is a process that security teams use to _____ attacks.
+
+Answer: anticipate
+
+2. Question 2
+Which of the following are steps of a threat modeling process? Select three answers.
+
+Answer: Mitigate risks, Characterize the environment, Identify threats
+
+3. Question 3
+A threat modeling team has identified potential threats and vulnerabilities that might be exploited. The team creates a diagram that maps the threats to assets. What type of diagram is this known as?
+
+Answer: An attack tree
+
+4. Question 4
+Which of the following are threat modeling frameworks? Select two answers.
+
+Answer: Trike, PASTA
+
+5. Question 5
+What are the objectives of PASTA or any other threat modeling activity? Select three answers.
+
+Answer: Document potential risks, Prepare fixes, Improve security plans.

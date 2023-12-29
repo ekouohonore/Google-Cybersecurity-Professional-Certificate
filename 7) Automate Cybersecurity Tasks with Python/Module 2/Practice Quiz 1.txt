@@ -1,0 +1,22 @@
+1. Question 1 
+In Python, what is a function?
+
+Answer: A section of code that can be reused in a program
+
+2. Question 2 
+Which of the following keywords is essential when defining a function?
+
+Answer: def
+
+3. Question 3 
+You want to define a function that performs a status check. Which of the following is a valid header for the function definition?
+
+Answer: def status_check():
+
+4. Question 4 
+You are responsible for defining a function alert() that prints out the statement "Security issue detected." Which of the following blocks of code represent the correct indentation for defining and then calling the function?
+
+Answer:
+def alert():
+    print("Security issue detected.")
+alert()

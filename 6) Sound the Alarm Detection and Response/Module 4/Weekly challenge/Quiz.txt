@@ -1,0 +1,64 @@
+1. Question 1
+What details do logs contain? Select all that apply.
+
+Answer: Date, Time, Location
+
+2. Question 2
+Examine the following log:
+
+[2022/12/21 17:46:35.232748] NOTIFY: NetworkPropertiesUpdated: wifi_psk_13
+
+Which type of log is this?
+
+Answer: Network
+
+3. Question 3
+Examine the following log:
+{
+“name”: “System test”,
+“host”: "167.155.183.139",
+“id”: 11111,
+“Message”: [error] test,
+}
+Which log format is this log entry in?
+
+Answer: JSON
+
+4. Question 4
+Consider the following scenario:
+A security analyst at a midsized company is tasked with installing and configuring a host-based intrusion detection system (HIDS) on a laptop. The security analyst installs the HIDS and wants to test whether it is working properly by simulating malicious activity. The security analyst runs unauthorized programs on the laptop, which the HIDS successfully detects and alerts on.
+What is the laptop an example of?
+
+Answer: An endpoint
+
+5. Question 5
+What information is included in a signature’s header? Select all that apply.
+
+Answer: Port number, IP address, Protocol
+
+6. Question 6
+Examine this Suricata signature:
+alert http 167.215.72.95 any -> 156.150.71.141 80 (msg:"GET on wire"; flow:established,to_server; content:"GET"; sid:12345; rev:2;)
+What is the destination port?
+
+Answer: 80
+
+7. Question 7
+What is the difference between network telemetry and network alert logs?
+
+Answer: Network telemetry contains information about network traffic flows; network alert logs are the output of a signature.
+
+8. Question 8
+Fill in the blank: The asterisk symbol is also known as a(n) _____.
+
+Answer: wildcard
+
+9. Question 9
+What is the method to search for normalized data in Chronicle?
+
+Answer: UDM search
+
+10. Question 10
+What are the steps in the SIEM process for data collection? Select three answers.
+
+Answer: Collect, Normalize, Index

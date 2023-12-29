@@ -1,0 +1,19 @@
+1. Question 1
+Fill in the blank: A malware infection is an incident type that occurs when _____.
+
+Answer: malicious software designed to disrupt a system infiltrates an organization's computers or network.
+
+2. Question 2
+Fill in the blank: Improper usage is an incident type that occurs when _____.
+
+Answer: an employee of an organization violates the organization’s acceptable use policies.
+
+3. Question 3
+When should you escalate improper usage to a supervisor?
+
+Answer: Improper usage incidents should always be escalated out of caution.
+
+4. Question 4
+Fill in the blank: Unauthorized access is an incident type that occurs when _____.
+
+Answer: an individual gains digital or physical access to a system, data, or an application without permission.

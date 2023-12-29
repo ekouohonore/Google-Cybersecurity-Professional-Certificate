@@ -1,0 +1,49 @@
+1. Question 1
+Which of the following is an essential way to maintain a security mindset?
+
+Answer: Evaluate risks
+
+2. Question 2
+As a security analyst, you are responsible for protecting an organization’s low-level assets and high-importance assets. Which of the following is considered a low-level asset?
+
+Answer: Guest Wi-Fi network
+
+3. Question 3
+Fill in the blank: A security mindset helps a security analyst _____.
+
+Answer: defend against constant pressure from cyber attackers
+
+4. Question 4
+An employee at a healthcare company accesses a patient's medical history and payment information to provide treatment. Which type of data is this classified as?
+
+Answer: Sensitive data
+
+5. Question 5
+Fill in the blank: One of the most important concerns for most organizations is the protection of _____.
+
+Answer: customer data
+
+6. Question 6
+Fill in the blank: The decisions a security analyst makes can affect the organization that the analyst works for and other team members across the organization. These decisions also affect ______.
+
+Answer: the customers of the organization that hired the analyst
+
+7. Question 7
+What are some ways that security analysts protect data? Select three answers.
+
+Answer: Reporting small events, Paying attention to detail, Understanding the organization's assets
+
+8. Question 8
+Which of the following defines a security incident?
+
+Answer: A security event that results in a data breach
+
+9. Question 9
+Fill in the blank: _____ must be protected at all times. An organization can lose its credibility with its customers if it is not properly protected.
+
+Answer: Sensitive customer data
+
+10. Question 10
+Which of the following can cause a company to experience loss of credibility, financial loss, or regulatory fines?
+
+Answer: A data breach

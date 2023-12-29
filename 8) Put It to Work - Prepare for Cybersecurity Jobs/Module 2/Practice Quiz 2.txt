@@ -1,0 +1,21 @@
+Certainly! Here are the questions and their answers from the page:
+
+1. Question 1
+All security incidents should be equally prioritized.
+
+Answer: False
+
+2. Question 2
+You've recently been hired as a cybersecurity analyst for an office supply organization. Which incident can have the most impact on the organization's operations?
+
+Answer: The organization's manufacturing network is compromised
+
+3. Question 3
+Fill in the blank: A(n) _____ is a set of actions that outlines who should be notified when an incident alert occurs and how that incident should be handled.
+
+Answer: escalation policy
+
+4. Question 4
+Which incident classification type occurs when an employee violates an organization’s acceptable use policy?
+
+Answer: Improper usage

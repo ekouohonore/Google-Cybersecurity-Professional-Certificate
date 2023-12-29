@@ -1,0 +1,49 @@
+1. Question 1
+What is the purpose of security controls?
+
+Answer: Reduce specific security risks
+
+2. Question 2
+An employee reports that they cannot log into the payroll system with their access credentials. The employee does not recall changing their username or password. As a security analyst, you are asked to review access logs to investigate whether a breach occurred. What information are you able to review as a data custodian in this situation? Select two answers.
+
+Answer: The IP address of the computer used to log in and The time the user signed in and out
+
+3. Question 3
+You send an email to a friend. The service provider of your inbox encrypts all messages that you send. What happens to the information in your email when it’s encrypted?
+
+Answer: It’s converted from plaintext to ciphertext.
+
+4. Question 4
+How is hashing primarily used by security professionals?
+
+Answer: To determine data integrity
+
+5. Question 5
+Which of the following steps are part of the public key infrastructure process? Select two answers.
+
+Answer: Exchange of encrypted information and Establish trust using digital certificates
+
+6. Question 6
+Fill in the blank: Knowledge, ownership, and characteristic are three factors of _____ systems.
+
+Answer: Authentication
+
+7. Question 7
+What is a disadvantage of using single sign-on (SSO) technology for user authentication?
+
+Answer: Stolen credentials can give attackers access to multiple resources.
+
+8. Question 8
+The main responsibility of a receptionist at a healthcare company is to check-in visitors upon arrival. When visitors check-in, which kinds of information should the receptionist be able to access to complete their task? Select two answers.
+
+Answer: The patient being visited and A photo ID
+
+9. Question 9
+What types of user information does an API token contain? Select two answers.
+
+Answer: A user's site permissions and A user’s identity
+
+10. Question 10
+A customer of an online retailer has complained that their account contains an unauthorized purchase. You investigate the incident by reviewing the retailer's access logs. Which component of the user's session that you might review?
+
+Answer: Session cookie

@@ -1,0 +1,37 @@
+1. Question 1
+   What will the following code display?
+   
+   ip_address = "192.168.183.51"
+   if ip_address == "192.168.183.51":
+       print("You're logged in.")
+   else:
+       print("Login failed, try again.")
+
+Answer: "You're logged in."
+
+2. Question 2
+   Which conditional statement prints the message "account locked" when the value of failed_logins is 3 or higher?
+
+   if failed_logins >= 3:
+       print("account locked")
+
+Answer: if failed_logins >= 3: print("account locked")
+
+3. Question 3
+   Which code prints all numbers from 3 to 7?
+   
+   for i in range(3, 8):
+       print(i)
+   
+Answer: for i in range(3, 8): print(i)
+
+4. Question 4
+
+   How many times does the following code print the "security alert" message?
+   
+   count = 0
+   while count < 10:
+       print("security alert")
+       count = count + 1
+   
+Answer: 10 times

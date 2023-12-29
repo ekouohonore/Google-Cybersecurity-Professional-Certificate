@@ -1,0 +1,21 @@
+1. Question 1
+What is the primary purpose of logs during incident investigation?
+
+Answer: To provide a record of event details
+
+2. Question 2
+A security analyst wants to determine whether a suspicious login was successful. Which log type would be most useful for this purpose?
+
+Answer: Authentication
+
+3. Question 3
+In the following log, what action does the log entry record?
+
+[ALLOW: wikipedia.org] Source: 192.167.1.1 Friday, 10 June 2022 11:36:12
+
+Answer: ALLOW
+
+4. Question 4
+Fill in the blank: _____ is the process of examining logs to identify events of interest.
+
+Answer: Log analysis

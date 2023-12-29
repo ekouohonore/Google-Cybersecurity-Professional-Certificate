@@ -1,0 +1,19 @@
+1. Question 1
+What are the goals of a computer security incident response team (CSIRT)? Select three answers.
+
+Answer: To provide services and resources for response and recovery, to manage incidents, and To prevent future incidents from occurring.
+
+2. Question 2
+Which document outlines the procedures to follow after an organization experiences a ransomware attack?
+
+Answer: An incident response plan.
+
+3. Question 3
+Fill in the blank: The job of _____ is to investigate alerts and determine whether an incident has occurred.
+
+Answer: Security analysts.
+
+4. Question 4
+Which member of a CSIRT is responsible for tracking and managing the activities of all teams involved in the response process?
+
+Answer: Incident coordinator.

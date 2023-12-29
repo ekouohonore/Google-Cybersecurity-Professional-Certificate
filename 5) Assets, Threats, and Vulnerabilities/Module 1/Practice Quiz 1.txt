@@ -1,0 +1,19 @@
+1. Question 1
+What is a risk?
+
+Answer: Anything that can impact the confidentiality, integrity, or availability of an asset
+
+2. Question 2
+A security professional discovers a rogue access point on their company WiFi that is not managed by the networking team. The rogue device is altering and deleting sensitive records without authorization. What is the rogue device in this scenario?
+
+Answer: Threat
+
+3. Question 3
+A product team is storing customer survey data for a new project in a cloud drive. The data is only accessible to product team members while the project is in development. What is this data’s asset type?
+
+Answer: Confidential
+
+4. Question 4
+What is the practice of labeling assets based on sensitivity and importance to an organization?
+
+Answer: Asset classification

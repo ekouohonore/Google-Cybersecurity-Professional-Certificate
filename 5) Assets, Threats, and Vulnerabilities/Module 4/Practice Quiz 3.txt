@@ -1,0 +1,24 @@
+1. Question 1
+Fill in the blank: _____ are malicious code or behaviors that are used to take advantage of coding flaws in a web application.
+
+Answer: Web-based exploits
+
+2. Question 2
+Cross-site scripting (XSS) attacks are often delivered by exploiting which of the following languages? Select two answers.
+
+Answer: HTML and JavaScript
+
+3. Question 3
+Fill in the blank: A _____ is a coding technique that executes SQL statements before passing them onto the database.
+
+Answer: Prepared statement
+
+4. Question 4
+What are two examples of when SQL injections can take place?
+
+Answer: When a user enters their credentials and when using the login form to access a site
+
+5. Question 5
+In a SQL injection attack, malicious hackers attempt to obtain which of the following? Select two answers.
+
+Answer: Gain administrative rights and sensitive information

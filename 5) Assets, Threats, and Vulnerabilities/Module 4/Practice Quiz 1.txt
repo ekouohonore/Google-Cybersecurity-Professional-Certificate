@@ -1,0 +1,20 @@
+1.Question 1
+Fill in the blank: _____ is the use of digital communications to trick people into revealing sensitive data or deploying malicious software.
+
+Answer: Phishing
+
+2.Question 2
+What type of phishing uses electronic voice communications to obtain sensitive information or to impersonate a known source?
+
+Answer: Vishing
+
+3.Question 3
+Fill in the blank: The stages of a social engineering attack include to prepare, establish trust, use persuasion tactics, and ____.
+
+Answer: Disconnect from the target
+
+4.Question 4
+Phishing kits typically contain which of the following tools to help attackers avoid detection? Select three answers.
+
+Answer: Malicious attachments, Fake data-collection forms, Fraudulent web links
+

@@ -1,0 +1,51 @@
+Certainly! Here are the questions and their respective answers from the page:
+
+1. Question 1
+What security term describes the identification of a potential security event, triaging it, and handing it off to a more experienced team member?
+
+Answer: Incident escalation
+
+2. Question 2
+Fill in the blank: _____ is a skill that will help you identify security incidents that need to be escalated.
+
+Answer: Attention to detail
+
+3. Question 3
+As a security analyst, you might be asked to escalate various incidents. Which of the following are common incident classification types? Select two answers.
+
+Answer: Malware infection, Unauthorized access
+
+4. Question 4
+Improper usage can be intentional; other times it can be accidental. How should you decide which acts of improper usage should be escalated to a supervisor?
+
+Answer: Improper usage attempts that affect high-priority assets should be escalated; other improper usage instances are not as important.
+
+5. Question 5
+Which of the following security incidents can have the most damaging impact to an organization?
+
+Answer: A system containing customer PII is compromised
+
+6. Question 6
+A security analyst for an organization notices unusual log activity in an app that was recently banned from the organization. However, the analyst forgets to escalate this activity to the proper personnel. What potential impact can this small incident have on the organization?
+
+Answer: It can become a bigger threat.
+
+7. Question 7
+What security term is defined as a set of actions that outlines who should be notified when an incident alert occurs?
+
+Answer: An escalation policy
+
+8. Question 8
+You have recently been hired as a security analyst for an organization. You previously worked at another company doing security, and you were very familiar with their escalation policy. Why would it be important for you to learn your new company’s escalation policy?
+
+Answer: Every company has a different escalation policy, and it is an analyst's job to ensure incidents are handled correctly.
+
+9. Question 9
+A new security analyst has just been hired to an organization and is advised to read through the company’s escalation policy. What kind of information will the analyst be educated on when reading through this policy?
+
+Answer: They will learn when and how to escalate security incidents.
+
+10. Question 10
+Which of the following security incidents is likely to have the most negative impact on an organization?
+
+Answer: Unauthorized access to a manufacturing application

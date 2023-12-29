@@ -1,0 +1,21 @@
+1. Question 1
+Examine the following authentication log: 
+[2022/12/20 08:20:38.921286] User nuhara logged in successfully
+What type of information does this log contain? Select two answers.
+
+Answer: Timestamp and event description
+
+2. Question 2
+Which of the following capabilities can syslog be used for? Select three answers.
+
+Answer: Protocol, service, and log format
+
+3. Question 3
+What are examples of log formats? Select three answers.
+
+Answer: JavaScript Object Notation (JSON), eXtensible Markup Language (XML), and Common Event Format (CEF)
+
+4. Question 4
+Which log format uses tags to structure data?
+
+Answer: eXtensible Markup Language (XML)

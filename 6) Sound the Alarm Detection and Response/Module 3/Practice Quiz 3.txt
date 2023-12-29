@@ -1,0 +1,19 @@
+1. Question 1
+Which section of a final report contains a high-level overview of the security incident?
+
+Answer: Executive summary
+
+2. Question 2
+What are the goals of a lessons learned meeting? Select two answers.
+
+Answer: Review and reflect on a security incident, Identify areas of improvement
+
+3. Question 3
+Fill in the blank: In the NIST Incident Response Lifecycle, reviewing an incident to identify areas for improvement during incident handling is known as the _____.
+
+Answer: Post-incident activity phase
+
+4. Question 4
+An organization has recovered from a ransomware attack that resulted in a significant disruption to their business operations. To review the incident, the security team hosts a lessons learned meeting. The team realizes that they could have restored the affected systems more quickly if they had a backup and recovery plan in place. Which question would have most likely helped the security team come to this conclusion?
+
+Answer: What could have been done differently?

@@ -1,0 +1,49 @@
+1. Question 1
+Fill in the blank: The OWASP is a standard awareness document that lists the top _____most critical security risks to web applications.
+
+Answer: 10
+
+2. Question 2
+Which well-known security website was created by former Washington Post reporter, Brian Krebs?
+
+Answer: Krebs on Security
+
+3. Question 3
+Fill in the blank: _____ provides news, analysis, and research on various security and risk management topics.
+
+Answer: CSO Online
+
+4. Question 4
+Fill in the blank: _____ is an online security resource that provides information on analytics and application security, mobile and cloud security, and the Internet of Things (IoT).
+
+Answer: Dark Reading
+
+5. Question 5
+Which of the following is a great way to connect with other security professionals in the industry?
+
+Answer: Finding them on social media
+
+6. Question 6
+Fill in the blank: _____ is a great way to connect with security professionals on social media.
+
+Answer: Reading and commenting on the social media posts of leaders in the security industry
+
+7. Question 7
+Which of the following is a good first step to finding a CISO to follow on social media?
+
+Answer: Conduct an internet search for the name of the CISO of an organization
+
+8. Question 8
+What is a good way to find other security analysts in the industry to follow on social media?
+
+Answer: Search for cybersecurity analysts on LinkedIn®
+
+9. Question 9
+Fill in the blank: _____ is a great way to connect with security professionals without using social media.
+
+Answer: Joining different security associations
+
+10. Question 10
+What is the best search term to use to find a security organization to join?
+
+Answer: “Cybersecurity industry associations”

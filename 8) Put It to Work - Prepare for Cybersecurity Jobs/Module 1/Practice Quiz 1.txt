@@ -1,0 +1,19 @@
+1. Question 1
+What does a security mindset enable a security analyst to do when protecting their organization? Select two answers.
+
+Answer: Evaluate risks and identify potential system breaches, Recognize what they are defending
+
+2. Question 2
+Which type of asset would have the least impact on an organization if it were compromised?
+
+Answer: Guest Wi-Fi network
+
+3. Question 3
+How can security analysts cultivate a security mindset?
+
+Answer: By researching the latest security vulnerabilities, By protecting public data from being accessed and shared
+
+4. Question 4
+Which of the following examples describes the use of a security mindset? Select two answers.
+
+Answer: Reporting suspicious emails, Exercising suspicion before opening email attachments

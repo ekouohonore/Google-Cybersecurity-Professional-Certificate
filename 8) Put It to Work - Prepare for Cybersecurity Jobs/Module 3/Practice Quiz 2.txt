@@ -1,0 +1,19 @@
+1. Question 1
+Which of the following should a security analyst do before communicating the results of a vulnerability test to stakeholders? Select three answers.
+
+Answer: Use visual aids, Choose an appropriate communications medium, Consider the nature of the information that is being communicated
+
+2. Question 2
+If a stakeholder fails to respond to an email in a timely manner, which communication steps are the next best options? Select two answers.
+
+Answer: Send an instant message, Make a phone call
+
+3. Question 3
+Fill in the blank: The use of _____ to tell a security story can help security analysts communicate impactful data and metrics.
+
+Answer: visuals
+
+4. Question 4
+Which software programs can be used as tools for sharing and telling a visual story about data? Select all that apply.
+
+Answer: Apache OpenOffice, Google Sheets

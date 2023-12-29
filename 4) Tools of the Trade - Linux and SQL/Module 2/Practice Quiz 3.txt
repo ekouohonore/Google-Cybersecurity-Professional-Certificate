@@ -1,0 +1,20 @@
+1. Question 1
+What is the shell?
+
+Answer: The command-line interpreter
+
+2. Question 2
+After a user inputs a command into the shell, what can the shell return to the user? Select two answers.
+
+Answer: An error message and output
+
+3. Question 3
+What is standard error in Linux?
+
+Answer: Error messages returned by the operating system through the shell
+
+4. Question 4
+What is the difference between standard input and standard output?
+
+Answer: Standard input is sent to the operating system. Standard output is sent from the operating system.
+

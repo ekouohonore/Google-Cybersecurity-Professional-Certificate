@@ -1,0 +1,22 @@
+Question 1
+What is the job of a computer's operating system?
+
+Answer: Help other computer programs run efficiently
+
+Question 2
+Fill in the blank: In order to carry out tasks on a computer, users directly interact with _____.
+
+Answer: applications
+
+Question 3
+The management of a computer’s resources and memory is handled by an application.
+
+Answer: False
+
+Question 4
+Which of the following processes are part of starting an operating system? Select all that apply.
+
+Answer: 
+- The BIOS or UEFI microchip loads the bootloader
+- The bootloader starts the operating system
+- Either the BIOS or UEFI microchip is activated when a user turns on a computer

@@ -1,0 +1,63 @@
+1.Question 1
+Fill in the blank: If you use Python code to reduce the manual effort needed to manage an access control list, this is an example of _____.
+
+Answer: automation
+
+2. Question 2
+What is wrong with the following code?
+
+   for username in failed_login:
+       print(username)
+
+Answer: The line with `for username in failed_login:` is not indented.
+
+3. Question 3
+Fill in the blank: String data _____.
+
+Answer: must be placed in quotation marks
+
+4.Question 4
+   What are possible values for the Boolean data type? Select all that apply.
+
+Answer: True, False
+
+5. Question 5
+Which line of code assigns the string "dtanaka" to a variable called username?
+
+Answer: `username = "dtanaka"`
+
+6. Question 6
+What code can you use to return the data type of the value stored in the input variable?
+
+Answer: `type(input)`
+
+7. Question 7
+You want to check the string stored in an update_status variable. When it contains a value of "incomplete", you want to print a "schedule update" message. Right now, this conditional statement is not correct. What are the problems with this conditional statement? Select all that apply.
+
+   if update_status != "incomplete":
+       print("schedule update")
+
+Answer: A colon (:) is missing at the end of the conditional header. The operator should not be !=. It should be ==.
+
+8. Question 8
+Fill in the blank: An else statement _____.
+
+Answer: executes when the condition in the if statement preceding it evaluates to False
+
+9.Question 9
+   What iterative statement should you use if you want to print the numbers 1, 2, and 3?
+
+   for i in [1, 2, 3]:
+       print(i)
+
+Answer: `for i in [1, 2, 3]:`
+
+10. Question 10
+    How many times will the following code print the "warning" message?
+    
+    count = 1
+    while count < 5:
+        print("warning")
+        count = count + 1
+    
+ Answer: 4

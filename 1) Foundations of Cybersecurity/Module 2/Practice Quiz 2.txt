@@ -1,0 +1,20 @@
+1. Question 1
+Fill in the blank: Examples of security _____ include security and risk management and security architecture and engineering.
+
+ANS: domains
+
+2. Question 2
+A security professional is responsible for ensuring that company servers are configured to securely store, maintain, and retain SPII. These responsibilities belong to what security domain?
+
+ANS: Asset security
+
+3. Question 3
+Your supervisor asks you to audit the human resources management system at your organization. The objective of your audit is to ensure the system is granting appropriate access permissions to current human resources administrators. Which security domain is this audit related to?
+
+ANS: Security assessment and testing
+
+4. Question 4
+You receive an alert that an unknown device has been connected to your company’s internal network. You follow company policies and procedures to stop the potential threat. Which security domain is this scenario related to?
+
+ANS: Security operations
+

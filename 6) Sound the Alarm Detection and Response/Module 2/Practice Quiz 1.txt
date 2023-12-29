@@ -1,0 +1,19 @@
+1. Question 1
+How do indicators of compromise (IoCs) help security analysts detect network traffic abnormalities?
+
+Answer: They provide a way to identify an attack.
+
+2. Question 2
+Fill in the blank: Data _____ is the term for unauthorized transmission of data from a system.
+
+Answer: exfiltration
+
+3. Question 3
+An attacker has infiltrated a network. Next, they spend time exploring it in order to expand and maintain their access. They look for valuable assets such as proprietary code and financial records. What does this scenario describe?
+
+Answer: Lateral movement
+
+4. Question 4
+What can security professionals use network traffic analysis for? Select three answers.
+
+Answer: To identify malicious activity, to monitor network activity, and to understand network traffic patterns.

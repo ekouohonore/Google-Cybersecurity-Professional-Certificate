@@ -1,0 +1,25 @@
+1. Question 1
+What is filtering in SQL?
+
+Answer: Selecting data that match a certain condition
+
+2. Question 2
+You are working with the Chinook database and want to return the firstname, lastname, and phone of all employees. Replace --??? with the missing information to complete the query. (If you want to undo your changes to the query, you can click the Reset button.)
+
+What is Andrew Adams' phone number?
+
+Answer: +1 (780) 428-9482
+
+3. Question 3
+A security analyst wants to filter the log_in_attempts table for records where the value in the country column is 'Canada'. What is a valid query for this?
+
+Answer: SELECT *
+
+FROM log_in_attempts
+
+WHERE country = 'Canada';
+
+4. Question 4
+Which pattern matches with any string that starts with the character 'A'?
+
+Answer: A%

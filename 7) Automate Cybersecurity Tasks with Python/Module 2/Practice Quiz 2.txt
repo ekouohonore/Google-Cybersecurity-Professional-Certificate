@@ -1,0 +1,25 @@
+1.Question 1
+   Fill in the blank: In the following code, the integers 5 and 12 are _____:
+
+   for i in range(5, 12):
+       print(i)
+
+Answer: arguments
+
+2.Question 2
+What is the correct way to define the function addition() if it requires the two parameters num1 and num2?
+
+Answer: `def addition(num1, num2):`
+
+3.Question 3
+Which of the following lines of code has correct syntax for printing the data type of the string "elarson"?
+
+Answer: `print(type("elarson"))`
+
+4.Question 4
+Which function definition includes the correct syntax for returning the value of the result variable from the doubles() function?
+
+Answer: 
+   def doubles(num):
+       result = num * 2
+       return result

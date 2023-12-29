@@ -1,0 +1,19 @@
+1. Question 1
+What are some examples of types of documentation? Select three answers.
+
+Answer: Playbooks, Final reports, Policies
+
+2. Question 2
+Fill in the blank: Ticketing systems such as _____ can be used to document and track incidents.
+
+Answer: Jira
+
+3. Question 3
+What application monitors system activity, then produces alerts about possible intrusions?
+
+Answer: Intrusion detection system
+
+4. Question 4
+What actions does an intrusion prevention system (IPS) perform? Select three answers.
+
+Answer: Monitor activity, Stop intrusive activity, Detect abnormal activity

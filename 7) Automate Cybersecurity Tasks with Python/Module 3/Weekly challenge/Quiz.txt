@@ -1,0 +1,49 @@
+1. Question 1
+Which line of code converts the integer 7 to a string?
+
+Answer: `str(7)`
+
+2. Question 2
+Which line of code returns a copy of the string "HG91AB2" as "hg91ab2"?
+
+Answer: `print("HG91AB2".lower())`
+
+3. Question 3
+In the string "network", which character has an index of 1?
+
+Answer: `"e"`
+
+4. Question 4
+You need to take a slice from a network ID. Specifically, you must extract the characters with indices of 6 through 10. Complete the Python code to take this slice and display it.
+
+Answer: `print(network_id[6:11])` -> "85n52"
+
+5. Question 5
+What is the output of the following code?
+
+Answer: `["elarson", "bmoreno", "tshah", "us2c0R5", "2R78TBR", "bt3MIEz"]`
+
+6. Question 6
+What is the output of the following code?
+
+Answer: `"elarson"`
+
+7. Question 7
+What is an algorithm?
+
+Answer: A set of rules to solve a problem
+
+8. Question 8
+Which of the following strings would Python return as matches to the regular expression pattern of "\w"? Select all that apply.
+
+Answer: "2", "W"
+
+9. Question 9
+What module do you need to import to use regular expressions in Python?
+
+Answer: `re`
+
+10. Question 10
+What does the code `username_list.append("bmoreno")` method do?
+
+Answer: Adds "bmoreno" to the end of the `username_list` list

@@ -1,0 +1,49 @@
+1. Question 1
+Which step of the NIST Incident Response Lifecycle involves the investigation and validation of alerts?
+
+Answer: Analysis
+
+2. Question 2
+What are the benefits of documentation during incident response? Select three answers.
+
+Answer: Transparency, Standardization, clarity
+
+3. Question 3
+An organization is working on implementing a new security tool, and a security analyst has been tasked with developing workflow documentation that outlines the process for using the tool. Which documentation benefit does this scenario outline?
+
+Answer: Standardization
+
+4. Question 4
+Chain of custody documents establish proof of which of the following? Select two answers.
+
+Answer: Reliability, Integrity
+
+5. Question 5
+Which of the following does a semi-automated playbook use? Select two.
+
+Answer: Automation, Human intervention
+
+6. Question 6
+What are the steps of the triage process in the correct order?
+
+Answer: Receive and assess, assign priority, collect and analyze
+
+7. Question 7
+What are the steps of the third phase of the NIST Incident Response Lifecycle? Select three answers.
+
+Answer: Containment, Eradication, Recovery
+
+8. Question 8
+Which step of the NIST Incident Response Lifecycle involves returning affected systems back to normal operations?
+
+Answer: Recovery
+
+9. Question 9
+Two weeks after an incident involving ransomware, the members of an organization want to review the incident in detail. Which of the following actions should be done during this review? Select all that apply.
+
+Answer: Create a final report, Schedule a lessons learned meeting that includes all parties involved with the security incident, Determine how to improve future response processes and procedures.
+
+10. Question 10
+What does a final report contain? Select three.
+
+Answer: Recommendations, Timeline, Incident details

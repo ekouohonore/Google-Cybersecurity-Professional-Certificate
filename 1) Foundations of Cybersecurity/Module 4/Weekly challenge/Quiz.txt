@@ -1,0 +1,54 @@
+Here are the questions on this page and their answers:
+
+1. Question 1
+Which of the following statements correctly describe logs? Select two answers.
+
+ANS:	--> A business might log each time an employee signs into their computer.
+	--> A log is a record of events that occur within an organization’s systems.
+
+2. Question 2
+Which of the following tasks can be performed using SIEM tools? Select three answers.
+
+ANS:	--> Analyzing filtered events and patterns
+	--> Monitoring critical activities
+	--> Saving time by reducing the amount of data to be reviewed
+
+3. Question 3
+A cybersecurity analyst needs to collect data from multiple places to analyze filtered events and patterns. What type of tool should they use?
+
+ANS: Security information and event management (SIEM)
+
+4. Question 4
+Fill in the blank: Security professionals use _____ to help them manage a security incident before, during, and after it has occurred.
+
+ANS: playbooks
+
+5. Question 5
+As a security analyst, you are monitoring network traffic to ensure that SPII data is not being accessed by unauthorized users. What does this scenario describe?
+
+ANS: Using a network protocol analyzer (packet sniffer)
+
+6. Question 6
+What are some key benefits of programming languages? Select all that apply.
+
+ANS:	--> They complete tasks faster than if working manually.
+	--> They reduce the risk of human error.
+	--> They can be used to create a specific set of instructions for a computer to execute tasks.
+
+7. Question 7
+A security team wants to examine logs to understand what is occurring within their systems. Why might they choose Linux to perform this task? Select two answers.
+
+ANS:	--> It is open source.
+	--> It allows for text-based commands by users.
+
+8. Question 8
+Fill in the blank: A database is a _____ of organized data stored in a computer system.
+
+ANS: collection
+
+9. Question 9
+What are some key benefits of using Python to perform security tasks? Select all that apply.
+
+ANS:	--> It helps security professionals be more accurate.
+	--> It simplifies repetitive tasks.
+

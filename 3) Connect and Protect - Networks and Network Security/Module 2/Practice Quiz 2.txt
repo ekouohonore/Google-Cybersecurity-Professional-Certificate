@@ -1,0 +1,24 @@
+1. Question 1
+What monitors and filters traffic coming in and out of a network?
+
+Answer: Firewall
+
+2. Question 2
+Stateless is a class of firewall that keeps track of information passing through it and proactively filters out threats.
+
+Answer: False
+
+3. Question 3
+Fill in the blank: Encapsulation can be performed by a _____ to help protect information by wrapping sensitive data in other data packets.
+
+Answer: VPN service
+
+4. Question 4
+Which security zone is used to ensure highly confidential information and is only accessible to employees with certain privileges?
+
+Answer: Restricted zone
+
+5. Question 5
+Fill in the blank: A security analyst uses a _____ to regulate and restrict access to an internal server from the internet. This tool works by accepting traffic from external parties, approving it, and forwarding it to internal servers.
+
+Answer: reverse proxy server

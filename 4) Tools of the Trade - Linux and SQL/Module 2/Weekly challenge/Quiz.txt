@@ -1,0 +1,44 @@
+1. Question 1
+What is an effect of Linux being open source?
+
+Answer: It allows for collaboration among a community of developers.
+
+2. Question 2
+Which of the following components are part of the Linux architecture? Select all that apply.
+
+Answer: The Filesystem Hierarchy Standard (FHS), Applications, The shell.
+
+3. Question 3
+What is one reason why there are multiple distributions of Linux?
+
+Answer: The Linux kernel is open source, which means anyone can use the kernel and modify it.
+
+4. Question 4
+What is an example of a Linux distribution that comes pre-installed with many security-related tools?
+
+Answer: KALI LINUX ™ (KALI LINUX ™ is a trademark of OffSec.)
+
+5. Question 5
+Which of the following is a Linux distribution that is built for enterprise use and offers a dedicated support team for customers?
+
+Answer: Red Hat
+
+6. Question 6
+What is the shell in Linux?
+
+Answer: The command-line interpreter
+
+7. Question 7
+Fill in the blank: When you communicate with the shell, the commands in the shell can ___. Select all that apply.
+
+Answer: give error messages, give output, take input.
+
+8. Question 8
+Which of the following is an example of an application?
+
+Answer: nano
+
+9. Question 9
+When the system doesn't know how to respond to a command, what is the result?
+
+Answer: An error message

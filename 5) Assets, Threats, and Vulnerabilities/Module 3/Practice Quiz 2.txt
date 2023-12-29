@@ -1,0 +1,19 @@
+1. Question 1
+Fill in the blank: A vulnerability ____ refers to the internal review process of an organization’s security systems.
+
+Answer: Assessment
+
+2. Question 2
+What are the goals of a vulnerability assessment? Select two answers.
+
+Answer: To reduce overall threat exposure and To identify existing weaknesses
+
+3. Question 3
+Which of the following remediation examples might be implemented after a vulnerability scan? Select two answers.
+
+Answer: Training employees to follow new security procedures and Installing software updates and patches
+
+4. Question 4
+What are two types of vulnerability scans? Select two answers.
+
+Answer: Limited or comprehensive and Authenticated or unauthenticated

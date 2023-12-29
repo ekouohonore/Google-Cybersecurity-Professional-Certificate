@@ -1,0 +1,19 @@
+1. Question 1
+Which of the following are stakeholder communication best practices? Select all that apply.
+
+Answer: They should be precise; They should have a clear purpose; They should avoid unnecessary jargon.
+
+2. Question 2
+Fill in the blank: Information that is communicated to stakeholders is _____.
+
+Answer: sensitive.
+
+3. Question 3
+What actions can a security analyst take to learn what matters to the stakeholders they communicate with?
+
+Answer: Ask stakeholders questions about the data and assets they are responsible for protecting.
+
+4. Question 4
+Fill in the blank: Graphs, charts, videos, and dashboards are examples of _____ communications that are created to provide and compare important data and metrics with stakeholders.
+
+Answer: visual.

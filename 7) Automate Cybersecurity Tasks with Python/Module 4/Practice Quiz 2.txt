@@ -1,0 +1,21 @@
+1. Question 1
+You want to open the file "logs.txt" and store it in the file variable for the purpose of reading it. You also want to ensure all resources are released and the file is closed after you read it. What is the correct line of code to do this?
+
+Answer: with open("logs.txt", "r") as file:
+
+2. Question 2
+After you’ve opened a log file as login_file, which line of code can you use to read the file and store it in a variable called login_attempts?
+
+Answer: login_attempts = login_file.read()
+
+3. Question 3
+You just read a log file into a variable called file. The file variable contains a string of multiple IP addresses that are each separated by a whitespace. Which line of code separates each individual IP address and stores it as a list in a variable called ip_addresses?
+
+Answer: ip_addresses = file.split()
+
+4. Question 4
+You need to check for unusual login activity. Specifically, you need to check a list of login timestamps to determine if any of the login times occurred at unusual hours. If you want to automate this through Python, what would be part of your code? Select two answers.
+
+Answer: 
+- A for loop that iterates through the list of timestamps,
+- if statement that checks if the login timestamp occurred at unusual hours.

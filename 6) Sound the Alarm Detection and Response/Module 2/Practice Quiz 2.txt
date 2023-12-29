@@ -1,0 +1,15 @@
+1. Question 1: Which component of a packet contains the actual data that is intended to be sent to its destination?
+
+Answer: Payload
+
+2. Question 2: Fill in the blank: A _____ is a file that contains data packets that have been intercepted from an interface or a network.
+
+Answer: packet capture
+
+3. Question 3: Which field of an IP header is used to identify whether IPv4 or IPv6 is used?
+
+Answer: Version
+
+4. Question 4: Which network protocol analyzer is accessed through a graphical user interface?
+
+Answer: Wireshark

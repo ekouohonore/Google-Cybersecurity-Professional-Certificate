@@ -1,0 +1,53 @@
+1.Question 1
+A hotel chain has outdated WiFi routers in their guest rooms. An attacker hacked into the devices and stole sensitive information from several guests.
+The outdated WiFi router is an example of what?
+
+Answer: A vulnerability
+
+2.Question 2
+What security strategy uses a layered approach to prevent attackers from gaining access to sensitive data?
+
+Answer: Defense in depth
+
+3.Question 3
+An organization’s firewall is configured to allow traffic only from authorized IP addresses. Which layer of the defense in depth model is the firewall associated with?
+
+Answer: Network
+
+4.Question 4
+Which of the following are criteria that a vulnerability must meet to qualify for a CVE® ID? Select all that apply.
+
+Answer: It must be submitted with supporting evidence, it must be independent of other issues, and it must be recognized as a potential security risk.
+
+5.Question 5
+Which of the following are characteristics of the vulnerability management process? Select two answers.
+
+Answer: Vulnerability management is a way to limit security risks, and vulnerability management should consider various perspectives.
+
+6.Question 6
+What is the main goal of performing a vulnerability assessment?
+
+Answer: To identify weaknesses and prevent attacks
+
+7.Question 7
+Fill in the blank: All the potential vulnerabilities that a threat actor could exploit is called an attack _____.
+
+Answer: Surface
+
+8.Question 8
+Fill in the blank: An attack _____ refers to the pathways attackers use to penetrate security defenses.
+
+Answer: Vector
+
+9.Question 9
+A security team is performing a vulnerability assessment on a banking app that is about to be released. Their objective is to identify the tools and methods that an attacker might use.
+Which steps of an attacker mindset should the team perform to figure this out? Select three answers.
+
+Answer: Determine how the target can be accessed, evaluate attack vectors that can be exploited, and identify a target.
+
+10.Question 10
+Consider the following scenario:
+You are working as a security professional for a school district. An application developer with the school district created an app that connects students to educational resources. You’ve been assigned to evaluate the security of the app.
+Using an attacker mindset, which of the following steps would you take to evaluate the application?26 Select two answers.
+
+Answer: Identify the types of users who will interact with the app, and evaluate how the app handles user data.

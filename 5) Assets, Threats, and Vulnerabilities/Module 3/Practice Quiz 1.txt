@@ -1,0 +1,19 @@
+1. Question 1
+Which of the following are steps in the vulnerability management process? Select two answers.
+
+Answer: Identify vulnerabilities and Prepare defenses against threats
+
+2. Question 2
+An organization is attacked by a vulnerability that was previously unknown. What is this exploit an example of?
+
+Answer: A zero-day
+
+3. Question 3
+Which layer of the defense in depth strategy is a user authentication layer that mainly filters external access?
+
+Answer: Perimeter
+
+4. Question 4
+A security researcher reports a new vulnerability to the CVE® list. Which of the following criteria must the vulnerability meet before it receives a CVE® ID? Select two answers.
+
+Answer: It must be independently fixable and The submission must have supporting evidence

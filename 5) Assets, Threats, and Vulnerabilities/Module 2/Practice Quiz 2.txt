@@ -1,0 +1,25 @@
+1. Question 1
+Which of the following elements are required when using encryption? Select all that apply.
+
+Answer: Key and Cipher
+
+2. Question 2
+Which technologies are used in public key infrastructure (PKI) to securely exchange information online? Select two answers.
+
+Answer: Digital certificates and Encryption algorithms
+
+3. Question 3
+Fill in the blank: _____ encryption produces a public and private key pair.
+
+Answer: Asymmetric
+
+4. Question 4
+An attacker gains access to a database where user passwords are secured with the SHA-256 hashing algorithm. Can the attacker decrypt the user passwords?
+
+Answer: No. Hash algorithms do not produce decryption keys.
+
+5. Question 5
+What term describes being unable to deny that information is authentic?
+
+Answer: Non-repudiation
+

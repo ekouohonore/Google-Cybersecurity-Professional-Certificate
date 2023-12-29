@@ -1,0 +1,19 @@
+1. Question 1
+Which tool collects and analyzes log data to monitor critical activities in an organization?
+
+Answer: Security information and event management (SIEM) tool
+
+2. Question 2
+Fill in the blank: Security orchestration, automation, and response (SOAR) is a collection of applications, tools, and workflows that uses automation to _____ security events.
+
+Answer: Respond to
+
+3. Question 3
+Which step in the SIEM process transforms raw data to create consistent log records?
+
+Answer: Normalize data
+
+4. Question 4
+What is the process of gathering data from different sources and putting it in one centralized place?
+
+Answer: Aggregation

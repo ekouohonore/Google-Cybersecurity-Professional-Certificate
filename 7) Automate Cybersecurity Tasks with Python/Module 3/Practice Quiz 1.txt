@@ -1,0 +1,27 @@
+1.Question 1
+Which of the following statements correctly describe strings? Select all that apply.
+   
+Answer:
+- Strings are immutable.
+- Strings must be placed in quotation marks (" ").
+
+2. Question 2
+What does the following code return?
+   
+   device_id = "uu0ktt0vwugjyf2"
+   print(device_id[2:5])
+
+Answer: 'u0k'
+
+3.Question 3
+What does the following code display?
+
+   device_id = "Tj1C58Dakx"
+   print(device_id.lower())
+
+Answer: "tj1c58dakx"
+
+4.Question 4
+What index does the substring "192.168.243.140" start at?
+
+Answer: 32

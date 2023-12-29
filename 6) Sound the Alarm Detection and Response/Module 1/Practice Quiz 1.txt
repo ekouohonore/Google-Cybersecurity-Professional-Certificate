@@ -1,0 +1,16 @@
+1.Question 1 The first phase of the NIST Incident Response Lifecycle is Preparation. What are the other phases? Select three answers.
+
+Answer: Post-Incident Activity, Detection and Analysis, Containment, Eradication, and Recovery
+
+2.Question 2 What type of process is the NIST Incident Response Lifecycle?
+
+Answer: Cyclical
+
+3.Question 3 Fill in the blank: An _____ is an observable occurrence on a network, system, or device.
+
+Answer: event
+
+4.Question 4 A security professional investigates an incident. Their goal is to gain information about the 5 W’s, which include what happened and why. What are the other W’s? Select three answers.
+
+Answer: When the incident took place, Who triggered the incident, Where the incident took place
+

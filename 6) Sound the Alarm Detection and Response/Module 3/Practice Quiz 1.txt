@@ -1,0 +1,15 @@
+1. Question 1: Do detection tools have limitations in their detection capabilities?
+
+Answer: Yes
+
+2. Question 2: Why do security analysts refine alert rules? Select two answers.
+
+Answer: To improve the accuracy of detection technologies and to reduce false positive alerts
+
+3. Question 3: Fill in the blank: _____ involves the investigation and validation of alerts.
+
+Answer: Analysis
+
+4. Question 4: What are some causes of high alert volumes? Select two answers.
+
+Answer: Broad detection rules and misconfigured alert settings

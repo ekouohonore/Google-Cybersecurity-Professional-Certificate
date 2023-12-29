@@ -1,0 +1,52 @@
+1. Question 1
+Fill in the blank: The four stages of a social engineering attack are to prepare, _____, use persuasion tactics, and disconnect from the target.
+
+Answer: establish trust
+
+2. Question 2
+What is the main difference between a vishing attack and a smishing attack?
+
+Answer: Vishing makes use of voice calls to trick targets.
+
+3. Question 3
+Which of the following are not types of malware? Select two answers.
+
+Answer: SQL injection, Cross-site scripting
+
+4. Question 4
+Which type of malware requires the user to make a payment to the attacker to regain access to their device?
+
+Answer: Ransomware
+
+5. Question 5
+Which of the following are common signs that a computer is infected with cryptojacking software? Select three answers.
+
+Answer: Increased CPU usage, Sudden system crashes, Unusually high electricity costs
+
+6. Question 6
+What is malicious code that is inserted into a vulnerable application called?
+
+Answer: Injection attack
+
+7. Question 7
+An attacker injected malware on a server. When a user visits a website hosted by the server, their device gets infected with the malware.
+
+This is an example of what type of injection attack?
+
+Answer: Stored
+
+8. Question 8
+Which of the following are areas of a website that are vulnerable to SQL injection? Select two answers.
+
+Answer: User login pages, Credit card payment forms
+
+9. Question 9
+A security team is conducting a threat model on a new software system. The team is creating their plan for defending against threats. Their choices are to avoid risk, transfer it, reduce it, or accept it.
+Which key step of a threat model does this scenario represent?
+
+Answer: Mitigate risks
+
+10. Question 10
+During which stage of the PASTA framework is an attack tree created?
+
+Answer: Attack modeling

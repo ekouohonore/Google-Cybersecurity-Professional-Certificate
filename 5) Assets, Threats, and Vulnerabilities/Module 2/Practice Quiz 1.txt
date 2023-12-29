@@ -1,0 +1,20 @@
+1. Question 1
+What are categories of security controls? Select all that apply.
+
+Answer: Technical, Managerial, and Operational
+
+2. Question 2
+Fill in the blank: A data _____ decides who can access, edit, use, or destroy their information.
+
+Answer: Owner
+
+3. Question 3
+A writer for a technology company is drafting an article about new software features that are being released. According to the principle of least privilege, what should the writer have access to while drafting the article? Select all that apply.
+
+Answer: The software they are reviewing and software developers who are knowledgeable about the product
+
+4. Question 4
+Which privacy regulations influence how organizations approach data security? Select three answers.
+
+Answer: Health Insurance Portability and Accountability Act (HIPAA), Payment Card Industry Data Security Standard (PCI DSS), and General Data Protection Regulation (GDPR)
+

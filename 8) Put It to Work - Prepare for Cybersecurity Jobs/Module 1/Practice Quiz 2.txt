@@ -1,0 +1,19 @@
+1. Question 1
+A security analyst notices that an employee has installed an app on their work device without getting permission from the help desk. The log indicates that potentially malicious code might have been executed on the host. Which of these security events should the security analyst escalate to a supervisor?
+
+Answer: Both events should be escalated.
+
+2. Question 2
+Which are types of data and assets that stakeholders are most interested in protecting? Select two answers.
+
+Answer: Customers’ usernames and passwords, Sensitive financial data
+
+3. Question 3
+Fill in the blank: When a security event results in a data breach, it is categorized as a _____.
+
+Answer: security incident
+
+4. Question 4
+Which of the following are examples of the potential impact of a security incident involving malicious code? Select three answers.
+
+Answer: Financial consequences, Loss of assets, Operational downtime

@@ -1,0 +1,19 @@
+1. Question 1
+In Search Processing Language (SPL), which special character is a wildcard that can be used to substitute with any other character?
+
+Answer: *
+
+2. Question 2
+Which of the following steps are part of the security information and event management (SIEM) process? Select three answers.
+
+Answer: Index data to improve search performance, Normalize data so it is ready to read and analyze, Collect and process data
+
+3. Question 3
+Fill in the blank: Chronicle uses _____ to search through unstructured logs.
+
+Answer: raw log search
+
+4. Question 4
+Which of the following is Splunk’s query language?
+
+Answer: SPL

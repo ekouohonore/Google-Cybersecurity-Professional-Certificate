@@ -1,0 +1,19 @@
+1. Question 1
+What is the practice of keeping data in all states away from unauthorized users?
+
+Answer: Information security
+
+2. Question 2
+An employee is promoted to a new role, so their workstation is transferred to a different office. As the employee’s workstation is being relocated, what data state are its files in?
+
+Answer: At rest
+
+3. Question 3
+What is an example of data in transit?
+
+Answer: A sent email is traveling over the network to reach its destination.
+
+4. Question 4
+Fill in the blank: Data is in use when it is being _____ by one or more users.
+
+Answer: Accessed

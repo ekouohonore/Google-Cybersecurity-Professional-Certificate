@@ -1,0 +1,19 @@
+1. Question 1
+Which regular expression symbol represents one or more occurrences of a specific character?
+
+Answer: +
+
+2. Question 2
+As a security analyst, you are responsible for finding employee IDs that end with the character and number sequence "a6v". Given that employee IDs consist of both numbers and alphabetic characters and are at least four characters long, which regular expression pattern would you use?
+
+Answer: "\w+a6v"
+
+3. Question 3
+You have imported the re module into Python with the code import re. You want to use the findall() function to search through a string. Which function call enables you to search through the string contained in the variable text in order to return all matches to a regular expression stored in the variable pattern?
+
+Answer: re.findall(pattern, text)
+
+4. Question 4
+Which of the following strings would Python return as matches to the regular expression pattern "\w+"? Select all that apply.
+
+Answer: "FirstName", "3"

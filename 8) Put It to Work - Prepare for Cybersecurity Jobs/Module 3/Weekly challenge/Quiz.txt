@@ -1,0 +1,49 @@
+1. Question 1
+Which of the following are stakeholders interested in having knowledge of? Select two answers.
+
+Answer: The activities of their organization, The decisions of their organization’s leadership
+
+2. Question 2
+Which security stakeholder helps recognize risks and manage the response to security incidents?
+
+Answer: Risk manager
+
+3. Question 3
+Handling the daily maintenance of security operations is the general responsibility for which security stakeholder?
+
+Answer: Operations manager
+
+4. Question 4
+Fill in the blank: Information that is communicated to ____ is considered sensitive.
+
+Answer: an organization’s competitors
+
+5. Question 5
+Which of the following guidelines can help security analysts improve stakeholder communications? Select two answers.
+
+Answer: Avoid unnecessary technical terms, Be precise
+
+6. Question 6
+Which potential security challenges should a security analyst communicate to security stakeholders?
+
+Answer: Malicious code detected in logs
+
+7. Question 7
+Fill in the blank: Creating ____ communications allows a security stakeholder to view representations of what is being explained using graphs and charts.
+
+Answer: visual
+
+8. Question 8
+An analyst finishes an incident review. Next, they want to clearly communicate meaningful data from their findings. What action can they take to share this information?
+
+Answer: Use visuals to tell a security story
+
+9. Question 9
+Fill in the blank: In the field of security, it is important to communicate _____ with care.
+
+Answer: sensitive information
+
+10. Question 10
+Fill in the blank: If a stakeholder fails to respond to an important message you sent them right away, the best approach to reach them is to follow-up with _____.
+
+Answer: a phone call or an instant message

@@ -1,0 +1,20 @@
+1. Question 1: 
+What tasks would a security analyst most likely automate with Python? Select three answers.
+
+Answer: Analyzing network traffic, Sorting through a log file, Managing an access control list
+
+2. Question 2: 
+What are some benefits of using Python in security? Select all that apply.
+
+Answer: Python helps automate short, simple tasks, Python reduces manual effort, Python can combine separate tasks into one workstream
+
+3. Question 3:
+Which of the following code blocks contains a valid Python comment?
+
+Answer: # This prints a "Try again" message
+print("Try again")
+
+4. Question 4: 
+Which line of code outputs the string "invalid username" to the screen?
+
+Answer: print("invalid username")

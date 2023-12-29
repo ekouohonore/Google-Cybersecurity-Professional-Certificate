@@ -1,0 +1,19 @@
+1. Question 1
+What types of errors might you encounter while debugging code? Select three answers.
+
+Answer: Logic errors, Syntax errors, Exceptions
+
+2. Question 2
+The purpose of this code is to indicate whether a particular operating system needs to be updated. However, it contains a syntax error. Run this code, analyze its output, and then debug it. (If you want to undo your changes to the code, you can click the Reset button.)
+
+Answer: Change the keyword elsif to elif.
+
+3. Question 3
+You have written code that assigns security incident tickets to the appropriate cybersecurity team based on its priority level. If the priority level is 1, it should get forwarded to Team A. If the priority level is 2, it should get forwarded to Team B. When testing your code, you notice that an incident with priority level 2 is forwarded to Team A instead of Team B. What type of error is this?
+
+Answer: Logic error
+
+4. Question 4
+You have written code that uses a search algorithm to find an employee’s IP address. When testing your code, an error message indicates that an unknown index is being accessed. What type of error is this?
+
+Answer: Exception

@@ -12,5 +12,4 @@ What we covered;
 
 
 😁I had fun
-![image](https://github.com/ekouohonore/Google-Cybersecurity-Professional-Certificate/assets/94833160/12082ced-ece8-41a7-9969-e13f583ac6fd)
 

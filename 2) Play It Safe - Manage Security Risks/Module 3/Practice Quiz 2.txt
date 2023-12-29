@@ -1,0 +1,19 @@
+Question 1
+A security team wants some of its services to be hosted on the internet instead of local devices. However, they also need to maintain physical control over certain confidential data. What type of SIEM solution should they select?
+
+Answer: Hybrid
+
+Question 2
+Security information and event management (SIEM) tools provide dashboards that help cybersecurity professionals organize and focus their security efforts.
+
+Answer: True
+
+Question 3
+Fill in the blank: A _____ SIEM tool is specifically designed to take advantage of cloud computing capabilities including availability, flexibility, and scalability.
+
+Answer: cloud-native
+
+Question 4
+What are the different types of SIEM tools? Select three answers.
+
+Answer: Self-hosted, Cloud-hosted, Hybrid

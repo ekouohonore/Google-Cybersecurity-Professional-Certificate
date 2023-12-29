@@ -1,0 +1,19 @@
+1. Question 1
+Which tcpdump option is used to specify the network interface?
+
+Answer: -i
+
+2. Question 2
+What is needed to access the tcpdump network protocol analyzer?
+
+Answer: Command-line interface
+
+3. Question 3
+What is the first field found in the output of a tcpdump command?
+
+Answer: Timestamp
+
+4. Question 4
+You are using tcpdump to capture network traffic on your local computer. You would like to save the network traffic to a packet capture file for later analysis. Which tcpdump option should you use?
+
+Answer: -w

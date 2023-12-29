@@ -1,0 +1,26 @@
+1. Question 1
+Which of the following data items are float data? Select all that apply.
+
+Answer: 15.0, -2.11 
+
+2. Question 2
+What code displays the data type of the variable username?
+
+Answer: 
+username = ["elarson", "bmoreno", "tshah"]
+data_type = type(username)
+print(data_type)
+
+3. Question 3
+In the following code, what is the data type of login_success?
+login_success = ["success", "success", "fail", "success"]
+
+Answer: The data type of login_success is list
+
+4. Question 4
+What is the output of the following code?
+failed_attempts = 3
+failed_attempts = 4
+print(failed_attempts)
+
+Answer:  4

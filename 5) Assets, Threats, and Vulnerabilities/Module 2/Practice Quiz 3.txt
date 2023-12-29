@@ -1,0 +1,24 @@
+1. Question 1
+What factors do authentication systems use to verify a user's identity? Select three answers.
+
+Answer: Ownership, Characteristic, and Knowledge
+
+2. Question 2
+How do businesses benefit from implementing single sign-on (SSO) technology? Select two answers.
+
+Answer: By simplifying their user management and by providing a better user experience
+
+3. Question 3
+A retail company has one employee that’s in charge of purchasing goods, another employee that's in charge of approving new purchases, and a third employee that’s in charge of paying invoices. What security principle is the retail company implementing?
+
+Answer: Separation of duties
+
+4. Question 4
+What are the categories of access controls? Select three answers.
+
+Answer: Authorization, Authentication, and Accounting
+
+5. Question 5
+What credential does OAuth use to authenticate users?
+
+Answer: An application programming interface (API) token

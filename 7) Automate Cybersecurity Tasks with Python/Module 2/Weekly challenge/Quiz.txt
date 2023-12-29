@@ -1,0 +1,70 @@
+1.Question 1
+Which of the following choices is a valid header in a function definition?
+
+Answer:
+   def remove_user(username):
+
+2.Question 2
+   Which of the following components are needed to call a built-in function in Python? Select three answers.
+
+Answer:
+   - The arguments required by the function
+   - The function name
+   - `()`
+
+3.Question 3
+In the following code, what is the argument?
+
+   def welcome_user(name):
+       print("Welcome," name)
+   
+   username="elarson"
+   welcome_user(username)
+
+Answer:`username`
+
+4.Question 4
+When working in Python, what is a library?
+
+Answer: A collection of modules that provide code users can access in their programs
+
+5.Question 5
+What does this line of code return?
+
+print(type("h32rb17"))
+
+Answer: `str`
+
+6.Question 6
+   What is returned from the following user-defined function if you pass it the arguments 2 and 3?
+
+   def add(num1, num2):
+       result = num1 + num2
+       return result
+   
+   add(2, 3)
+
+Answer:`5`
+
+7. Question 7
+Which of the following choices is a resource that provides stylistic guidelines for programmers working in Python?
+
+Answer: PEP 8
+
+8. Question 8
+Why are comments useful? Select three answers.
+
+Answer:
+   - They explain the code to other programmers.
+   - They provide insight on what the code does.
+   - They make debugging easier later on.
+
+9.Question 9
+What are built-in functions?
+
+Answer: Functions that exist with Python and can be called directly
+
+10. Question 10
+You imported a Python module, what do you now have access to in Python?
+
+Answer: Additional functions, variables, classes, and other kinds of runnable code.

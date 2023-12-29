@@ -1,0 +1,19 @@
+1. Question 1
+Which of the following potential signs of suspicious activity can you track with automated Python programs? Select all that apply.
+
+Answer: Whether several failed login attempts occurred within a short span of time; Whether login attempts occurred from IP addresses that are not established work zones; Whether login attempts occurred outside of normal work hours
+
+2. Question 2
+Which Python component contributes to automation by allowing you to perform the same actions a certain number of times based on a sequence?
+
+Answer: for loops
+
+3. Question 3
+Why is knowing how to work with files important for automation?
+
+Answer: Cybersecurity-related information is often found in log files.
+
+4. Question 4
+Which of the following are common file formats for security logs? Select all that apply.
+
+Answer: .txt; .csv

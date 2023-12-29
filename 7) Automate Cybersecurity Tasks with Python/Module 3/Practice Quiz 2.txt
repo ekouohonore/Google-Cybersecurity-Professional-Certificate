@@ -1,0 +1,32 @@
+1. Question 1
+Review the following code:
+```python
+my_list = ["a", "b", "c", "d"]
+my_list[2] = 4
+print(my_list)
+```
+What will it display?
+
+Answer: ["a", "b", 4, "d"]
+
+2. Question 2
+You are working with the list ["cwvQSQ","QvPvX5","ISyT3a","S7vgN0"]. Its elements represent machine IDs, and the list is stored in a variable named machine_ids. Which line of code will add the ID of "yihhLL" at index 3?
+
+Answer: machine_ids.insert(3,"yihhLL")
+
+3. Question 3
+Which line of code will remove the username "tshah" from the following list?
+```python
+access_list = ["elarson", "bmoreno", "tshah", "sgilmore"]
+```
+What will it display?
+
+Answer: access_list.remove("tshah")
+
+4. Question 4
+As a security analyst, you are responsible for developing an algorithm that automates removing usernames that match specific criteria from an access list. What Python components would help you implement this? Select three answers.
+
+Answer: 
+- An if statement that compares a username to the criteria for removal
+- A for loop that iterates through the usernames in the access list
+- The .remove() method

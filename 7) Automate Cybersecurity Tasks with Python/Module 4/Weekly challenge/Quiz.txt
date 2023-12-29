@@ -1,0 +1,49 @@
+1. Question 1
+What are the three types of errors you will encounter while debugging?
+
+Answer: Syntax errors, logic errors, and exceptions
+
+2. Question 2
+The purpose of the following code is to print the numbers from 0 to 9. Run this code, analyze its output, and then debug it.
+
+Answer: Add a missing colon (:)
+
+3. Question 3
+The purpose of this code is to greet a user by their first name when they log in. Run this code, analyze its output, and debug it.
+
+Answer: Remove the quotation marks surrounding the argument "first_name" when calling welcome_user()
+
+4. Question 4
+You did not assign a value to a variable before using it in a conditional statement. What type of error is this?
+
+Answer: Logic error
+
+5. Question 5
+When debugging code, what are effective ways to determine which sections of code are working properly? Select all that apply.
+
+Answer: Use a debugger, Add print statements
+
+6. Question 6
+If you want to read a file called "logs.txt", which line of code allows you to open this file for purposes of reading it and store it in a variable called file?
+
+Answer: with open("logs.txt", "r") as file:
+
+7. Question 7
+You’ve read a log file into the variable file_text. The file_text variable contains a string of 50 usernames of employees at your company. How do you convert this string into a list and store it in a variable usernames?
+
+Answer: usernames = file_text.split()
+
+8. Question 8
+What is the process of converting data into a more readable format?
+
+Answer: Parsing
+
+9. Question 9
+After you’ve opened a log file as file, which line of code will help you read the file into a variable called text?
+
+Answer: text = file.read()
+
+10. Question 10
+You want to check if a device is running a particular operating system that needs updates. What would be part of your code?
+
+Answer: A split() function to split the string containing the information in the log file into a devices list, A for loop to iterate through all items in the devices list, An if statement that checks if elements in devices contain the substring "i71"
