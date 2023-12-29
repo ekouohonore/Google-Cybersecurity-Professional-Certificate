@@ -22,3 +22,6 @@ Comments and answers to all the Practice quizzes and Quizzes of Coursera's Googl
 8. Find and apply for jobs
 
 🌟🕺I am very happy to complete the Certificate program
+
+![image](https://github.com/ekouohonore/Google-Cybersecurity-Professional-Certificate/assets/94833160/e6406016-d1c7-44b0-b057-ecb3021136da)
+
